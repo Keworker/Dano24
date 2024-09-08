@@ -4,3 +4,4 @@ pandas
 pillow
 jupyter
 seaborn
+statsmodels
